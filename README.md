@@ -193,12 +193,6 @@ pnpm test         # Run tests
 | `ZOHO_DAILY_API_LIMIT` | No | `1000` | Override for paid plans |
 | `ZOHO_YEARLY_INVOICE_LIMIT` | No | `1000` | Override for paid plans |
 
-## Support & Services
-
-Need help getting set up? We offer commercial support, managed deployment, and custom integrations.
-
-Contact: **shyble@outlook.com**
-
 ## License
 
 [AGPL-3.0](LICENSE)
